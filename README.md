@@ -1,24 +1,48 @@
+<h2> Hey there! I'm Andy 👋</h2>
 
- <h1 align="center">Hi there 👋</h1>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🎓 &nbsp; I've recently graduated as a Full-stack Web Developer from CodeYourFuture's 12-month Bootcamp.
+- 💬 &nbsp; Always excited to learn new stuff, currently learning about software testing.
+- 💼 &nbsp; Currently looking for a role in software development.
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andy-robertson) 
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI&logoColor=3f51b5)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=Gimp&logoColor=786f58)
 
+<br/>
 
+<a href="https://github.com/andy-robertson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andy-robertson&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-robertson&theme=buefy&layout=compact" />
+</a>
 
-<!--
-**Andy-Robertson/Andy-Robertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<h3> 🤝🏻 &nbsp;Get in-touch </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://andy-robertson.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.andy-robertson.dev-blue?style=flat-square&logo=google-chrome"></a>
+
+<a href="https://www.linkedin.com/in/andrew-j-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%Robertson-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://twitter.com/AndyR_Decoded/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Andy%Robertson-blue?style=flat-square&logo=Twitter"></a>
+
+<a href="mailto:andrew.j.robertson@posgteo.uk"><img alt="Email" src="https://img.shields.io/badge/Email-andrew.j.robertson@posgteo.uk-blue?style=flat-square&logo=gmail"></a>
+</p>
