@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I've recently graduated as a Full-stack Web Developer from CodeYourFuture's 12-month Bootcamp.
-- 💬 &nbsp; Always excited to learn new stuff, currently learning about software testing.
-- 💼 &nbsp; Currently looking for a role in software development.
+- 🎓 &nbsp; I've recently graduated as a Full-stack Software Developer from CodeYourFuture's 12-month Bootcamp.
+- 💬 &nbsp; Being a continus learner, I'm always excited to learn new technologies, techniques and look for creative ways to apply them.
+- 💼 &nbsp; I'm currently seeking a software development role, see below to get in-touch!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,11 +38,7 @@
 <h3> 🤝🏻 &nbsp;Get in-touch </h3>
 
 <p align="center">
-<a href="https://andy-robertson.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.andy-robertson.dev-blue?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/andrew-j-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%Robertson-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://twitter.com/AndyR_Decoded/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Andy%Robertson-blue?style=flat-square&logo=Twitter"></a>
-
+<a href="https://www.linkedin.com/in/andrew-j-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Robertson-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.twitter.com/AndyR_Decoded/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Andy%20Robertson-blue?style=flat-square&logo=Twitter"></a>
 <a href="mailto:andrew.j.robertson@posgteo.uk"><img alt="Email" src="https://img.shields.io/badge/Email-andrew.j.robertson@posgteo.uk-blue?style=flat-square&logo=gmail"></a>
 </p>
