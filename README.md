@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I've recently graduated as a Full-stack Software Developer from CodeYourFuture's 12-month Bootcamp.
-- 💬 &nbsp; Being a continus learner, I'm always excited to learn new technologies, techniques and look for creative ways to apply them.
-- 💼 &nbsp; I'm currently seeking a software development role, see below to get in-touch!
+- 💬 &nbsp; Being a continuous learner, I'm always excited to learn new technologies, techniques and look for creative ways to apply them.
+- 💼 &nbsp; I'm currently seeking a software development role, see below to get in touch!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
