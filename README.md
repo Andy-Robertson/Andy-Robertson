@@ -18,7 +18,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=007ACC)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -40,5 +40,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/andrew-j-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Robertson-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/AndyR_Decoded/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Andy%20Robertson-blue?style=flat-square&logo=Twitter"></a>
-<a href="mailto:andy.robertson@posgteo.uk"><img alt="Email" src="https://img.shields.io/badge/Email-andy.robertson@posgteo.uk-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:andy.robertson@posgteo.uk"><img alt="Email" src="https://img.shields.io/badge/Email-andy.robertson@posteo.uk-blue?style=flat-square&logo=gmail"></a>
 </p>
