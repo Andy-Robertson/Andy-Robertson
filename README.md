@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; A recent graduate from CodeYourFuture's 9-month a Full-stack Software Developer Bootcamp.
+- 🎓 &nbsp; A recent graduate from [CodeYourFuture's](https://github.com/CodeYourFuture) 9-month a Full-stack Software Developer Bootcamp.
 - 💬 &nbsp; Being a continuous learner, I'm always excited to learn new technologies, techniques and look for creative ways to apply them.
 - 💼 &nbsp; I'm currently seeking a development role, feel free to get in touch and discuss new opportunities or just to chat about coding!
 
