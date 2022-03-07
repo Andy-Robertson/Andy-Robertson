@@ -4,7 +4,8 @@
 
 - 🎓 &nbsp; A recent graduate from [CodeYourFuture's](https://github.com/CodeYourFuture) 9-month a Full-stack Software Developer Bootcamp.
 - 💬 &nbsp; Being a continuous learner, I'm always excited to learn new technologies, techniques and look for creative ways to apply them.
-- 💼 &nbsp; I'm currently seeking a development role, feel free to get in touch and discuss new opportunities or just to chat about coding!
+- 🌱 &nbsp; I'm learning more about Test Driven Development(TDD) currently.
+- 💼 &nbsp; Feel free to get in touch if you're looking to hire a developer as I'm currently looking for my first role or just want to chat about coding!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
