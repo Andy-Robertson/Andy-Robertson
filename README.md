@@ -35,7 +35,7 @@
 </a>
 <br/>
 
-<h3>💻 &nbsp;Live Projects </h3>
+<h3>💻 &nbsp;Project Insights </h3>
 
 - Alacrity - was the graduation project for CYF's Full-Stack Web Development Bootcamp, my primary focus was on the development of the user authentication, task archive and Pomodoro systems including the necessary routing and database requirements, app deployment on Heroku utilising CI/CD, focused mode and several other smaller features.
 
