@@ -28,6 +28,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=Gimp&logoColor=786f58)
   
+<br/>
+<a href="https://github.com/andy-robertson">
+  <img height="175em" width="49%" src="https://github-readme-stats.vercel.app/api?username=andy-robertson&theme=buefy&show_icons=true" />
+  <img height="175em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-robertson&theme=buefy&layout=compact" />
+</a>
+<br/>
+
 <h3>💻 &nbsp;Live Projects </h3>
 
 - Alacrity - was the graduation project for CYF's Full-Stack Web Development Bootcamp, my primary focus was on the development of the user authentication, task archive and Pomodoro systems including the necessary routing and database requirements, app deployment on Heroku utilising CI/CD, focused mode and several other smaller features.
@@ -37,13 +44,6 @@
 - CYF Hotel React - A CYF individual project to assess React development.
 - Cake co. landing page - A CYF individual project to assess HTML, CSS and responsive design skills.
 - Tally - A Full-Stack web app currently being developed using TDD.
-
-<br/>
-<a href="https://github.com/andy-robertson">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=andy-robertson&theme=buefy&show_icons=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-robertson&theme=buefy&layout=compact" />
-</a>
-<br/>
 
 <h3> 🤝🏻 &nbsp;Get in-touch </h3>
 
