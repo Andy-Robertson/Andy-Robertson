@@ -39,12 +39,10 @@
 - Tally - A Full-Stack web app currently being developed using TDD.
 
 <br/>
-
 <a href="https://github.com/andy-robertson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andy-robertson&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-robertson&theme=buefy&layout=compact" />
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=andy-robertson&theme=buefy&show_icons=true" />
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-robertson&theme=buefy&layout=compact" />
 </a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Get in-touch </h3>
