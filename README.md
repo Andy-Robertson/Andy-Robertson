@@ -4,8 +4,6 @@
 
 - 🎓 &nbsp; A recent graduate from [CodeYourFuture's](https://github.com/CodeYourFuture) (CYF) 9-month Full-stack Software Developer Bootcamp.
 - 💬 &nbsp; Being a continuous learner, I'm always excited to learn new technologies, techniques and look for creative ways to apply them.
-- 💼 &nbsp; Feel free to get in touch if you're looking to hire a developer as I'm looking for my first professional role or just want to talk code!
-- 🌱 &nbsp; Currently I'm focused on learning more about Test Driven Development (TDD) while developing tally, a bug tracking app.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,7 +41,6 @@
 - _**TV Show Dom Project**_ - A CYF individual project written in pure JavaScript to assess DOM manipulation skills.
 - _**CYF Hotel React**_ - A CYF individual project to assess React development.
 - _**Cake Co. landing page**_ - A CYF individual project to assess HTML, CSS and responsive design skills.
-- _**Tally**_ - A Full-Stack web app currently being developed using TDD.
 
 <h3> 🤝🏻 &nbsp;Get in-touch </h3>
 
