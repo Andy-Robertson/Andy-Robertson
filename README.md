@@ -38,11 +38,6 @@
 
 - _**Alacrity**_ - was the graduation project for CYF's Full-Stack Web Development Bootcamp, my primary focus was on the development of the user authentication, task archive and Pomodoro systems including the necessary routing and database requirements, app deployment on Heroku utilising CI/CD, focused mode and several other smaller features.
 
-- _**Youtube Video Saver**_ - A CYF Full-stack individual project to assess eligibility for entry onto a graduation project team.
-- _**TV Show Dom Project**_ - A CYF individual project written in pure JavaScript to assess DOM manipulation skills.
-- _**CYF Hotel React**_ - A CYF individual project to assess React development.
-- _**Cake Co. landing page**_ - A CYF individual project to assess HTML, CSS and responsive design skills.
-
 <h3> 🤝🏻 &nbsp;Get in-touch </h3>
 
 <p align="center">
