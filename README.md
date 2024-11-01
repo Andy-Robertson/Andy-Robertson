@@ -41,6 +41,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/andy~robertson/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Robertson-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/Andy__Robertson/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Andy%20Robertson-blue?style=flat-square&logo=Twitter"></a>
 <a href="mailto:andy.robertson@posgteo.uk"><img alt="Email" src="https://img.shields.io/badge/Email-andy.robertson@posteo.uk-blue?style=flat-square&logo=gmail"></a>
 </p>
