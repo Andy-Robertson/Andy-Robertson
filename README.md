@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; A graduate from [CodeYourFuture's](https://github.com/CodeYourFuture) (CYF) 9-month Full-stack Software Developer Bootcamp.
 - :seedling: &nbsp; I'm currently studying towards a BSc degree in software engineering.
 - 💬 &nbsp; Being a continuous learner, I'm always excited to learn new technologies, techniques and look for creative ways to apply them.
 
