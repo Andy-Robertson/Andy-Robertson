@@ -47,7 +47,7 @@ I'm a recent BSc Software Engineering graduate (awaiting results), with a Mechat
 
 ## 🐾 Featured Project
 
-  **ZooLab Animal Husbandry App**  
+  **Animal Guardian – ZooLab Husbandry App**  
   Designed and built a full-stack web app for streamlining animal care routines and data entry at <a href="https://www.linkedin.com/company/zoolabuk/" target="_blank" rel="noopener noreferrer">ZooLab.</a>
  Built using the PERN stack.  
   📌 *Actively maintained and updated based on staff feedback.* 
