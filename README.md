@@ -2,10 +2,18 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-I'm a recent BSc Software Engineering graduate (awaiting results), with a Mechatronics degree and hands-on experience across engineering and IT roles. I enjoy building practical, user-focused applications—especially full-stack solutions using the PERN stack.
+I'm a recent BSc Software Engineering graduate (awaiting results), with a Mechatronics degree and hands-on experience across engineering and IT roles. I enjoy building practical, user-focused applications, especially full-stack solutions using the PERN stack.
 
-> 🥾 When I’m not coding, I’m out pushing boundaries—like solo hiking the **156-mile Hebridean Way**.  
+> 🥾 When I’m not coding, I’m out pushing boundaries, like solo hiking the **156-mile Hebridean Way**.  
 > It taught me grit, adaptability, and calm under pressure—skills I bring to every team and codebase.
+
+---
+
+## 🌟 Highlights
+- 🎓 Dual degrees: Software Engineering + Mechatronics  
+- 🧠 Strong full-stack skills (PERN)  
+- 🔧 Real-world project delivery with client feedback  
+- 🌍 Self-starter with solo travel + field resilience  
 
 ---
 
@@ -38,6 +46,7 @@ I'm a recent BSc Software Engineering graduate (awaiting results), with a Mechat
 ---
 
 ## 🐾 Featured Project
+
   **ZooLab Animal Husbandry App**  
   Designed and built a full-stack web app for streamlining animal care routines and data entry at [ZooLab](https://www.linkedin.com/company/zoolabuk/). Built using the PERN stack.  
   📌 *Actively maintained and updated based on staff feedback.* 
@@ -68,5 +77,5 @@ Built a goal-setting and task-tracking app to help users overcome procrastinatio
 
 <p align="center">
 <a href="https://www.linkedin.com/in/andy~robertson/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Robertson-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:andy.robertson@posgteo.uk"><img alt="Email" src="https://img.shields.io/badge/Email-andy.robertson@posteo.uk-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:andy.robertson@posteo.uk"><img alt="Email" src="https://img.shields.io/badge/Email-andy.robertson@posteo.uk-blue?style=flat-square&logo=gmail"></a>
 </p>
