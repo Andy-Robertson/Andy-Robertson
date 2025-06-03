@@ -5,7 +5,7 @@
 Final year BSc (Hons) IT & Computing student, specialising in software engineering (graduating July 2025), with a Mechatronics degree and hands-on experience across engineering and IT roles. I enjoy building practical, user-focused applications, especially full-stack solutions using the PERN stack.
 
 > 🥾 When I’m not coding, I’m out pushing boundaries, like solo hiking the **156-mile Hebridean Way**.  
-> It taught me grit, adaptability, and calm under pressure—skills I bring to every team and codebase.
+> It taught me grit, adaptability, and calm under pressure, skills I bring to every team and codebase.
 
 ---
 
