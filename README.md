@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- :seedling: &nbsp; Final year student studying a BSc degree in software engineering.
+- :seedling: &nbsp; Recent BSc Software Engineering graduate (awaiting results).
 - 💬 &nbsp; Being a continuous learner, I'm always excited to learn new technologies, techniques and look for creative ways to apply them.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
