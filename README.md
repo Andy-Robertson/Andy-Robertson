@@ -41,7 +41,10 @@ Final year BSc (Hons) IT & Computing student, specialising in software engineeri
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
   ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![VSCode](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=vscode&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-303030?style=flat&logo=canva&logoColor=white)
+  ![Pencil](https://img.shields.io/badge/-Pencil-555555?style=flat&logoColor=white)
+
 
 ---
 
