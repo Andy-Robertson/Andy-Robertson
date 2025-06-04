@@ -47,18 +47,19 @@ Final year BSc (Hons) IT & Computing student, specialising in software engineeri
 
 ## 🐾 Featured Project
 
-  **Animal Guardian – ZooLab Husbandry App**  
-  Designed and built a full-stack web app for streamlining animal care routines and data entry at <a href="https://www.linkedin.com/company/zoolabuk/" target="_blank" rel="noopener noreferrer">ZooLab.</a>
- Built using the PERN stack.  
-  📌 *Actively maintained and updated based on staff feedback.* 
-  > **React · Node.js · Express · PostgreSQL · Tailwind CSS**
+**Animal Guardian – ZooLab Husbandry App**  
+Full-stack app developed for managing animal care routines and logging health data at <a href="https://www.linkedin.com/company/zoolabuk/" target="_blank" rel="noopener noreferrer">ZooLab</a>.  
+Built with the PERN stack and Tailwind CSS.  
+📌 *Continuously maintained and improved based on direct staff feedback.*  
+> **React · Node.js · Express · PostgreSQL · Tailwind CSS**
 
 ---
 
 ## 💻 Other Projects
 
-**Alacrity** – Final project for CYF’s Full-Stack Web Development Bootcamp.  
-Built a goal-setting and task-tracking app to help users overcome procrastination and stay productive.
+**Alacrity** – CYF Full-Stack Final Project  
+A goal-setting and Pomodoro-style task manager to help users stay productive and beat procrastination.  
+Developed collaboratively with agile practices and CI/CD pipelines.  
 > **React · Node.js · Express · PostgreSQL**
 
 ---
