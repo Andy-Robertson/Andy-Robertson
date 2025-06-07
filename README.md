@@ -42,7 +42,7 @@ Final year BSc (Hons) IT & Computing student, specialising in software engineeri
   ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat)
   ![VSCode](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=vscode&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-303030?style=flat&logo=canva&logoColor=white)
-  ![Pencil](https://img.shields.io/badge/-Pencil-555555?style=flat&logoColor=white)
+  ![Pencil](https://img.shields.io/badge/-Pencil-333333?style=flat&logoColor=white)
 
 
 ---
