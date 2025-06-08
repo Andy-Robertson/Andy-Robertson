@@ -9,10 +9,12 @@ Final year BSc (Hons) IT & Computing student, specialising in software engineeri
 ---
 
 ## 🌟 Highlights
-- 🎓 Dual degrees: Software Engineering + Mechatronics  
-- 🧠 Strong full-stack skills (PERN)  
-- 🔧 Real-world project delivery with client feedback  
-- 🌍 Self-starter with solo travel + field resilience  
+<ul>
+  <li>🎓 Dual degrees: Software Engineering + Mechatronics</li>
+  <li>🧠 Strong full-stack skills (PERN)</li>
+  <li>🔧 Real-world project delivery with client feedback</li>
+  <li>🌍 Self-starter with solo travel + field resilience</li>
+</ul>
 
 ---
 
@@ -44,6 +46,9 @@ Final year BSc (Hons) IT & Computing student, specialising in software engineeri
   ![Canva](https://img.shields.io/badge/Canva-303030?style=flat&logo=canva&logoColor=white)
   ![Pencil](https://img.shields.io/badge/-Pencil-333333?style=flat&logoColor=white)
 
+**Practice Platforms:**
+
+[![View Codewars Profile](https://img.shields.io/badge/Codewars-View_Profile-red?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Andy-R)
 
 ---
 
