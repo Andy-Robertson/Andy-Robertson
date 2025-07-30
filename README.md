@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-BSc (Hons) Computing & IT graduate specializing in software engineering, with a background in Mechatronics and hands-on experience across both engineering and IT roles. I enjoy building practical, user-focused applications, particularly full-stack solutions using the PERN stack, that solve real-world problems.
+BSc (Hons) Computing & IT graduate specialising in software engineering with a background in Mechatronics and hands-on experience across both engineering and IT roles. I enjoy building practical, user-focused applications, particularly full-stack solutions using the PERN stack, that solve real-world problems.
 
 > 🥾 When I’m not coding, I’m out pushing boundaries, like solo hiking the **156-mile Hebridean Way**.  
 
