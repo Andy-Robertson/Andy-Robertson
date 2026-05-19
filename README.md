@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-BSc (Hons) Computing & IT graduate specialising in software engineering with a background in Mechatronics and hands-on experience across both engineering and IT roles. I enjoy building practical, user-focused applications, particularly full-stack solutions using the PERN stack, that solve real-world problems.
+Associate Software Engineer at <a href="https://www.barclays.co.uk/" target="_blank" rel="noopener noreferrer">Barclays</a>  with a BSc (Hons) in Computing & IT, specialising in software engineering. Coming from a Mechatronics background, I bring a blend of engineering problem-solving and software development experience. Passionate about building practical, user-focused applications, especially full-stack PERN projects with real-world impact.
 
 > 🥾 When I’m not coding, I’m out pushing boundaries, like solo hiking the **156-mile Hebridean Way**.  
 
@@ -68,17 +68,6 @@ Built with the PERN stack and Tailwind CSS.
 A goal-setting and Pomodoro-style task manager to help users stay productive and beat procrastination.  
 Developed collaboratively with agile practices and CI/CD pipelines.  
 > **React · Node.js · Express · PostgreSQL**
-
----
-
-## 📈 GitHub Stats
-
-<br/>
-<a href="https://github.com/andy-robertson">
-  <img height="175em" width="49%" src="https://github-readme-stats.vercel.app/api?username=andy-robertson&theme=buefy&show_icons=true" />
-  <img height="175em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-robertson&theme=buefy&layout=compact" />
-</a>
-<br/>
 
 ---
 
